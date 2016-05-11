@@ -16,8 +16,8 @@ The application coordinates 5 UIView Controllers and 2 UITableViewControllers vi
 # Screenshots
 
 
-
-![sign in](https://cloud.githubusercontent.com/assets/16407832/15184801/aa3138e2-1764-11e6-8c81-852d6a60a0aa.jpg =5000*4000)
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184801/aa3138e2-1764-11e6-8c81-852d6a60a0aa.jpg" width="200">
+![sign in](https://cloud.githubusercontent.com/assets/16407832/15184801/aa3138e2-1764-11e6-8c81-852d6a60a0aa.jpg)
 ![login](https://cloud.githubusercontent.com/assets/16407832/15184799/aa275d2c-1764-11e6-80af-83d23952509f.jpg =100x200)
 ![search lyrics](https://cloud.githubusercontent.com/assets/16407832/15184798/aa21e7d4-1764-11e6-8afb-2de165e7cb40.jpg)
 ![searching](https://cloud.githubusercontent.com/assets/16407832/15184800/aa2f4f1e-1764-11e6-9bed-6b409fd12017.jpg)
