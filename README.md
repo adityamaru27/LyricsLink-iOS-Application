@@ -18,9 +18,9 @@ The application coordinates 5 UIView Controllers and 2 UITableViewControllers vi
 
 <img src="https://cloud.githubusercontent.com/assets/16407832/15184801/aa3138e2-1764-11e6-8c81-852d6a60a0aa.jpg"  hspace = 100px width="200">
 <img src="https://cloud.githubusercontent.com/assets/16407832/15184801/aa3138e2-1764-11e6-8c81-852d6a60a0aa.jpg" hspace = 100px width="200">
-<img src="https://cloud.githubusercontent.com/assets/16407832/15184798/aa21e7d4-1764-11e6-8afb-2de165e7cb40.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 100px>
-<img src="https://cloud.githubusercontent.com/assets/16407832/15184800/aa2f4f1e-1764-11e6-9bed-6b409fd12017.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 100px>
-<img src="https://cloud.githubusercontent.com/assets/16407832/15184797/aa2095d2-1764-11e6-8c15-8906990e02f0.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 100px>
-<img src="https://cloud.githubusercontent.com/assets/16407832/15184795/aa1fb61c-1764-11e6-95eb-d584c930d69e.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 100px>
-<img src="https://cloud.githubusercontent.com/assets/16407832/15184796/aa1ffc08-1764-11e6-9c3a-ba515a265ef7.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 100px>
-<img src="https://cloud.githubusercontent.com/assets/16407832/15184794/aa1f8caa-1764-11e6-8ba6-9cf0e7b98fc9.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 100px>
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184798/aa21e7d4-1764-11e6-8afb-2de165e7cb40.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 50px>
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184800/aa2f4f1e-1764-11e6-9bed-6b409fd12017.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 50px>
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184797/aa2095d2-1764-11e6-8c15-8906990e02f0.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 50px>
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184795/aa1fb61c-1764-11e6-95eb-d584c930d69e.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 50px>
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184796/aa1ffc08-1764-11e6-9c3a-ba515a265ef7.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 50px>
+<img src="https://cloud.githubusercontent.com/assets/16407832/15184794/aa1f8caa-1764-11e6-8ba6-9cf0e7b98fc9.jpg" width="200" style="PADDING-RIGHT: 100px" hspace = 50px>
