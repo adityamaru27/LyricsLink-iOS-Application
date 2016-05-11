@@ -7,23 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D8055FEA1CD2B25E0088EE2D /* ViewController_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8055FE91CD2B25E0088EE2D /* ViewController_2.swift */; };
+		D833E84C1CE19A3000629D07 /* lastview.swift in Sources */ = {isa = PBXBuildFile; fileRef = D833E84B1CE19A3000629D07 /* lastview.swift */; };
+		D833E84E1CE19C4200629D07 /* acl-drake-1280x800.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D833E84D1CE19C4200629D07 /* acl-drake-1280x800.jpg */; };
+		D833E8501CE19C7800629D07 /* drizzy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D833E84F1CE19C7800629D07 /* drizzy.jpg */; };
+		D848E6B21CDE719F00D4C4D5 /* TableViewController_playlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = D848E6B11CDE719F00D4C4D5 /* TableViewController_playlist.swift */; };
+		D848E6B71CDE7C7E00D4C4D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D848E6B51CDE7C7E00D4C4D5 /* Main.storyboard */; };
+		D86AB0E81CD1228E008FBD87 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86AB0E71CD1228E008FBD87 /* TableViewController.swift */; };
 		D890FB3E1CCEF34100F19C5A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D890FB3D1CCEF34100F19C5A /* AppDelegate.swift */; };
 		D890FB401CCEF34100F19C5A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D890FB3F1CCEF34100F19C5A /* ViewController.swift */; };
-		D890FB431CCEF34100F19C5A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D890FB411CCEF34100F19C5A /* Main.storyboard */; };
 		D890FB461CCEF34100F19C5A /* LyricsLink.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D890FB441CCEF34100F19C5A /* LyricsLink.xcdatamodeld */; };
 		D890FB481CCEF34100F19C5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D890FB471CCEF34100F19C5A /* Assets.xcassets */; };
 		D890FB4B1CCEF34100F19C5A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D890FB491CCEF34100F19C5A /* LaunchScreen.storyboard */; };
+		D8DD92F01CD85E6000B83CEC /* ViewController_login.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD92EF1CD85E6000B83CEC /* ViewController_login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D8055FE91CD2B25E0088EE2D /* ViewController_2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_2.swift; sourceTree = "<group>"; };
+		D833E84B1CE19A3000629D07 /* lastview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lastview.swift; sourceTree = "<group>"; };
+		D833E84D1CE19C4200629D07 /* acl-drake-1280x800.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "acl-drake-1280x800.jpg"; path = "../../../../Downloads/acl-drake-1280x800.jpg"; sourceTree = "<group>"; };
+		D833E84F1CE19C7800629D07 /* drizzy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = drizzy.jpg; path = ../../../drizzy.jpg; sourceTree = "<group>"; };
+		D848E6B11CDE719F00D4C4D5 /* TableViewController_playlist.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController_playlist.swift; sourceTree = "<group>"; };
+		D848E6B61CDE7C7E00D4C4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D86AB0E71CD1228E008FBD87 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		D890FB3A1CCEF34100F19C5A /* LyricsLink.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LyricsLink.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D890FB3D1CCEF34100F19C5A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D890FB3F1CCEF34100F19C5A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D890FB421CCEF34100F19C5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D890FB451CCEF34100F19C5A /* LyricsLink.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LyricsLink.xcdatamodel; sourceTree = "<group>"; };
 		D890FB471CCEF34100F19C5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D890FB4A1CCEF34100F19C5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D890FB4C1CCEF34100F19C5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8DD92EF1CD85E6000B83CEC /* ViewController_login.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController_login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +72,14 @@
 			children = (
 				D890FB3D1CCEF34100F19C5A /* AppDelegate.swift */,
 				D890FB3F1CCEF34100F19C5A /* ViewController.swift */,
-				D890FB411CCEF34100F19C5A /* Main.storyboard */,
+				D848E6B11CDE719F00D4C4D5 /* TableViewController_playlist.swift */,
+				D8DD92EF1CD85E6000B83CEC /* ViewController_login.swift */,
+				D833E84D1CE19C4200629D07 /* acl-drake-1280x800.jpg */,
+				D833E84F1CE19C7800629D07 /* drizzy.jpg */,
+				D8055FE91CD2B25E0088EE2D /* ViewController_2.swift */,
+				D848E6B51CDE7C7E00D4C4D5 /* Main.storyboard */,
+				D833E84B1CE19A3000629D07 /* lastview.swift */,
+				D86AB0E71CD1228E008FBD87 /* TableViewController.swift */,
 				D890FB471CCEF34100F19C5A /* Assets.xcassets */,
 				D890FB491CCEF34100F19C5A /* LaunchScreen.storyboard */,
 				D890FB4C1CCEF34100F19C5A /* Info.plist */,
@@ -126,9 +147,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D833E8501CE19C7800629D07 /* drizzy.jpg in Resources */,
+				D848E6B71CDE7C7E00D4C4D5 /* Main.storyboard in Resources */,
+				D833E84E1CE19C4200629D07 /* acl-drake-1280x800.jpg in Resources */,
 				D890FB4B1CCEF34100F19C5A /* LaunchScreen.storyboard in Resources */,
 				D890FB481CCEF34100F19C5A /* Assets.xcassets in Resources */,
-				D890FB431CCEF34100F19C5A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,19 +162,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D833E84C1CE19A3000629D07 /* lastview.swift in Sources */,
 				D890FB461CCEF34100F19C5A /* LyricsLink.xcdatamodeld in Sources */,
 				D890FB401CCEF34100F19C5A /* ViewController.swift in Sources */,
 				D890FB3E1CCEF34100F19C5A /* AppDelegate.swift in Sources */,
+				D86AB0E81CD1228E008FBD87 /* TableViewController.swift in Sources */,
+				D848E6B21CDE719F00D4C4D5 /* TableViewController_playlist.swift in Sources */,
+				D8DD92F01CD85E6000B83CEC /* ViewController_login.swift in Sources */,
+				D8055FEA1CD2B25E0088EE2D /* ViewController_2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D890FB411CCEF34100F19C5A /* Main.storyboard */ = {
+		D848E6B51CDE7C7E00D4C4D5 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D890FB421CCEF34100F19C5A /* Base */,
+				D848E6B61CDE7C7E00D4C4D5 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -254,10 +282,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = LyricsLink/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.adityamaru.LyricsLink;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "LyricsLink-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -265,10 +300,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				INFOPLIST_FILE = LyricsLink/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.adityamaru.LyricsLink;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "LyricsLink-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -291,6 +332,7 @@
 				D890FB511CCEF34100F19C5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
